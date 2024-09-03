@@ -1,6 +1,6 @@
 # Semi-Decentralized Exchange
 
-This repository contains a subset of the codebase for [Valmart](https://valmart.net/) Exchange, a semi-decentralized cryptocurrency exchange platform similar to Uniswap. This project includes three key applications: `app_Swap_Pool`, `app_Swap_Providing`, and `app_Swap_Swaping`. These apps manage the core functionalities of the swap pools, liquidity providing, and swap history within the exchange.
+This repository contains a subset of the codebase for [Valmart](https://valmart.net/) Exchange, a semi-decentralized cryptocurrency exchange platform with automated market-making algorithms and liquidity pools similar to Uniswap. This project includes three key applications: `app_Swap_Pool`, `app_Swap_Providing`, and `app_Swap_Swaping`. These apps manage the core functionalities of the swap pools, liquidity providing, and swap history within the exchange.
 
 **Note:** This repository only includes a part of the codebase and cannot be run as a standalone project due to missing dependencies and components. The content has been uploaded with explicit permission from the CEO of Valmart Exchange.
 
